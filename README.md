@@ -9,7 +9,7 @@ This project has a serverless web application built using AWS Lambda, DynamoDB, 
 
 
 ## Steps to Build the Project:
-1.Create a DynamoDB table to store the items.\
-2.Build a Lambda function to handle the CRUD operations on the DynamoDB table.\
-3.Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript).\
-4.Create a CloudFront distribution to serve the S3-hosted static files with low latency.\
+1. Create a DynamoDB table to store the items.\
+2. Build a Lambda function to handle the CRUD operations on the DynamoDB table.\
+3. Use S3 to store and host the web application's static files (HTML, CSS, and JavaScript).\
+4. Create a CloudFront distribution to serve the S3-hosted static files with low latency.\
